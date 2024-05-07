@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SOMATECH-20
+- 👋 Hi, I’m MM.
 - 👀 I’m interested in building things
-- 🌱 I’m currently learning Network stuff
-- 💞️ I’m looking to collaborate on almost everything
-- 📫 How to reach me [Gmail](ajacket19@gmail.com)
+- 🌱 I’m currently learning Network stuffs
+- 💞️ I’m looking to collaborate on [NetProbe](https://github.com/SOMATECH-20/netprobe.git)
+- 📫 How to reach me [Mail](ajacket19@gmail.com)
 
 <!---
 SOMATECH-20/SOMATECH-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
