@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mahdi Mohammed.
+- 👋 Hi, I’m MM.
 - 👀 I’m interested in building things
 - 🌱 I’m currently learning Network stuffs
 - 💞️ I’m looking to collaborate on [NetProbe](https://github.com/SOMATECH-20/netprobe.git)
