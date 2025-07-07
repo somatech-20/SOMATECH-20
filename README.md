@@ -41,6 +41,8 @@ I'm passionate about building impactful software and collaborating with creative
 
 ## 🌟 Favorite Projects
 
+> ⚠️ Projects aren't available publicly yet.
+
 | Project | Description | Tech Used |
 |---------|-------------|-----------|
 | [Nova](https://github.com/somatech-20/nova) | A quick search engine, key launcher | ![Rust](https://img.shields.io/badge/Rust-%23E34F26.svg?style=plastic&logo=rust&logoColor=white) |
