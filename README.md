@@ -11,7 +11,7 @@ Welcome! I'm passionate about building impactful software and collaborating with
 <!-- - 🔭 I’m currently working on: [Nova](#) -->
 <!-- - 🤔 I’m looking for help with my life -->
 - ⚡ Fun fact: Probably, i'm the only person on Earth who has debugged `.lnk` indexing in Rust and enforced SafeSearch at a network level for fun. 😄
-- 📫 How to reach me: [Mail](mailto:svg-opiion.proton.me)
+- 📫 How to reach me: [Mail](mailto:svg-opinion@proton.me)
 - 😄 Pronouns: He/Him
 
 - 💬 Ask me about **anything** tech related.
