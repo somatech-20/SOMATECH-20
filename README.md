@@ -1,8 +1,6 @@
 # 👋 Hi there! I'm MM 👨‍💻
 
-Welcome!
-
-I'm passionate about building impactful software and collaborating with creative minds from around the world.
+Welcome! I'm passionate about building impactful software and collaborating with creative minds from around the world.
 
 ---
 
