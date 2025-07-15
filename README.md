@@ -41,15 +41,16 @@ Welcome! I'm passionate about building impactful software and collaborating with
 
 ## 🌟 Favorite Projects
 
-> ⚠️ Some of the Projects aren't available publicly yet.
+<!-- > ⚠️ Some of the Projects aren't available publicly yet. -->
 
 | Project | Description | Tech Used |
 |---------|-------------|-----------|
 | [HotMon](https://github.com/somatech-20/HotMon) | Windows Global hotkey monitoring tool | ![C++](https://img.shields.io/badge/++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) |
+<!-- 
 | [Nova](https://github.com/somatech-20/nova) | Quick search engine, key launcher | ![Rust](https://img.shields.io/badge/Rust-%23E34F26.svg?style=plastic&logo=rust&logoColor=white) |
 | [scoolnap](https://github.com/somatech-20/scoolnap) | Full web page screenshot extension | ![Typesript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=plastic&logo=typescript&logoColor=%23F7DF1) ![React](https://img.shields.io/badge/React-%23150458.svg?style=plastic&logo=react&logoColor=white) |
 | [Track](https://github.com/somatech-20/Tracking-Tool) | Phone number tracking tool | ![Python](https://img.shields.io/badge/Python-%23323330.svg?style=plastic&logo=python&logoColor=yellow) |
-
+-->
 ---
 
 ## 📈 GitHub Stats
