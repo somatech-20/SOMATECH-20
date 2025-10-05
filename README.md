@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm MM 👨‍💻
 
-I'm passionate about crafting impactful software and collaborating with innovative minds worldwide. Inspired by Linus Torvalds' philosophy of open-source collaboration, I believe in sharing tools and knowledge. You can learn more about his vision in the MIT Lemelson biography on Linus Torvalds or [link here](https://lemelson.mit.edu/resources/linus-torvalds).
+I'm passionate about crafting impactful software and collaborating with innovative minds worldwide. Inspired by the philosophy of open-source collaboration, I believe in sharing tools and knowledge. 
 
 ---
 
