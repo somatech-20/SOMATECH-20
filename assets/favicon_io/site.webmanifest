@@ -1,0 +1,20 @@
+{
+    "name":"mehdi portfolio",
+    "short_name":"mehdi",
+    "description":"Portfolio of ᗰᗴᕼᗪᎥ 𝖒., a creative developer and designer crafting digital experiences with precision and creativity.",
+    "theme_color":"#050816",
+    "background_color":"#050816",
+    "display":"standalone",
+    "icons":[
+        {
+            "src":"/srcs/assets/favicon_io/android-chrome-192x192.png",
+            "sizes":"192x192",
+            "type":"image/png"
+        },
+        {
+            "src":"/srcs/assets/favicon_io/android-chrome-512x512.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }
+    ]
+}
