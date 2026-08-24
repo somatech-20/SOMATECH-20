@@ -12,7 +12,7 @@
 
 I'm a passionate creative developer and designer focused on creating meaningful digital experiences.
 
-🔭 &nbsp;I'm currently working on **rPlay**  
+🔭 &nbsp;I'm currently working on [**rPlay**](https://github.com/xM3hD1/rPlay)    
 🌱 &nbsp;I'm currently learning **AI and Machine Learning**  
 👯 &nbsp;I'm looking to collaborate on **windex**  
 💬 &nbsp;Ask me about **Python, API design, React, Node js and Branding &amp; Graphic designs**  
