@@ -1,0 +1,18 @@
+<svg width="600" height="172" viewBox="0 0 600 172" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="💡 Quick favor: If you use this free tool, please ⭐ Star it!">
+  <defs>
+    
+  </defs>
+  <style>
+    
+        .sq-line { animation: sq-fade 0.8s ease-in both; }
+        .sq-line:nth-child(2) { animation-delay: 0.12s; }
+        .sq-line:nth-child(3) { animation-delay: 0.24s; }
+        .sq-author { animation: sq-fade 0.8s ease-in both; animation-delay: 0.4s; }
+        @keyframes sq-fade { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+  <rect x="0" y="0" width="600" height="172" rx="10" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="599" height="171" rx="10" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="300" y="73" text-anchor="middle" class="sq-line" fill="#c9d1d9" font-size="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="500">💡 Quick favor: If you like it, please ⭐ Star</text>
+    <text x="300" y="99" text-anchor="middle" class="sq-line" fill="#c9d1d9" font-size="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="500">it!</text>
+  
+</svg>

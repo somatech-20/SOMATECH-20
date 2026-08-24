@@ -109,5 +109,5 @@ I'm a passionate creative developer and designer focused on creating meaningful 
 </p>
 
 ---
-<p align="center"><img src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://raw.githubusercontent.com/xm3hd1/xm3hd1.github.io/main/star-quotes.json" alt="Star Qoute"/></p>
+<p align="center"><img src="assets/SQ/quote-transparent-mn.svg" alt="Star Qoute"/></p>
 <p align="center"><i><a href="https://github.com/xm3hd1">ᗰᗴᕼᗪᎥ 𝖒.</a></i></p>
